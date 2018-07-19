@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="menu_item_icons">
+        <!--<item>@drawable/ic_home</item>
+        <item>@drawable/ic_find_job</item>
+        <item>@drawable/ic_group_icon</item>
+        <item>@drawable/ic_job_new</item>
+        <item>@drawable/ic_job_new</item>
+        <item>@drawable/ic_setting</item>
+        <item>@drawable/ic_menu_notification</item>-->
+    </integer-array>
+
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".view.activities.MainActivity">
+
+    <data>
+
+        <import type="com.vishal.baseproject.R" />
+
+        <import type="android.view.View" />
+
+        <variable
+            name="toolbar"
+            type="com.vishal.baseproject.model.Toolbar" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar_view"
+            android:visibility="@{toolbar.visible ? View.VISIBLE : View.GONE}" />
+
+
+        <FrameLayout
+            android:id="@+id/auth_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!--<com.vishal.baseproject.view.ButtonProgress
+                android:id="@+id/btn"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/forty_eight"
+                android:layout_marginEnd="8dp"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:padding="16dp"
+                app:bgColor="@color/green"
+                app:bgDrawable="@drawable/splash_background"
+                app:buttonText="test name"
+                app:buttonTextColor="@color/red"
+                app:buttonTextSize="@dimen/font_x_small"
+                app:progressColor="#ffffff"
+                app:progressWidth="3dp"
+                app:progressVisible="visible">
+
+            </com.vishal.baseproject.view.ButtonProgress>-->
+        <com.vishal.progressbutton.ButtonProgress
+            android:id="@+id/btn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/forty_eight"
+            android:padding="16dp"
+            app:bgColor="@color/green"
+            app:bgDrawable="@drawable/splash_background"
+            app:buttonText="test name"
+            app:buttonTextColor="@color/red"
+            app:buttonTextSize="@dimen/font_x_small"
+            app:progressColor="#ffffff"
+            app:progressWidth="3dp"
+            app:progressVisible="visible"/>
+
+        </FrameLayout>
+    </LinearLayout>
+</layout>

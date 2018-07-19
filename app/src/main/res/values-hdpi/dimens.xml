@@ -1,0 +1,122 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+
+    <dimen name="font_xxx_small">15px</dimen>
+    <dimen name="font_xx_small">18px</dimen>
+    <dimen name="font_x_small">21px</dimen>
+    <dimen name="dimen_32">24px</dimen>
+    <dimen name="font_normal">27px</dimen>
+    <dimen name="font_x_normal">26px</dimen>
+    <dimen name="dimen_38">29px</dimen>
+    <dimen name="dimen_40">30px</dimen>
+    <dimen name="dimen_42">32px</dimen>
+    <dimen name="dimen_48">36px</dimen>
+    <dimen name="font_splash_text">60px</dimen>
+    <dimen name="font_extra_large">90px</dimen>
+    <dimen name="font_58">44px</dimen>
+    <!--*** *** ***-->
+
+    <dimen name="result_summary_height">231px</dimen>
+
+    <!-- PHAS detail dialog -->
+    <dimen name="font_51">75px</dimen>
+    <dimen name="font_40">30px</dimen>
+    <dimen name="more_height">57px</dimen>
+    <dimen name="more_icon_height">36px</dimen>
+    <!--*** *** ***-->
+
+    <!--  Arc animation -->
+    <dimen name="menuChildSize">70px</dimen>
+    <dimen name="header_image_width">53px</dimen>
+
+    <!--Pre dashboard Q dim-->
+    <dimen name="dash_q_value_size">146.25px</dimen>
+    <dimen name="dash_nav_q_value_size">138.75px</dimen>
+    <dimen name="dash_q_score_margin_top">-18.75px</dimen>
+    <dimen name="coach_profile_pic">177px</dimen>
+
+    <dimen name="q_size">375px</dimen>
+
+    <dimen name="hra_icon_size">60px</dimen>
+    <dimen name="hra_icon_outer_size">72px</dimen>
+    <dimen name="health_hra_icon_size">45px</dimen>
+    <dimen name="health_hra_icon_outer_size">54px</dimen>
+    <!--*** *** ***-->
+
+    <dimen name="dimen_1_5">1.125px</dimen>
+    <dimen name="dimen_2">1.5px</dimen>
+    <dimen name="dimen_4">3px</dimen>
+    <dimen name="dimen_6">4.5px</dimen>
+    <dimen name="two">6px</dimen>
+    <dimen name="three">7.5px</dimen>
+    <dimen name="four">9px</dimen>
+    <dimen name="five">10.5px</dimen>
+    <dimen name="six">12px</dimen>
+    <dimen name="seven">13.5px</dimen>
+    <dimen name="dimen_19">14.25px</dimen>
+    <dimen name="eight">15px</dimen>
+    <dimen name="ten">18px</dimen>
+    <dimen name="twelve">21px</dimen>
+    <dimen name="thirteen">22.5px</dimen>
+    <dimen name="fifteen">25.5px</dimen>
+    <dimen name="sixteen">27px</dimen>
+    <dimen name="twenty">33px</dimen>
+    <dimen name="twenty_one">34.5px</dimen>
+    <dimen name="dimen_50">37.5px</dimen>
+    <dimen name="twenty_five">40.5px</dimen>
+    <dimen name="dimen_56">42px</dimen>
+    <dimen name="twenty_seven">43.5px</dimen>
+    <dimen name="dimen_60">45px</dimen>
+    <dimen name="thirty">48px</dimen>
+    <dimen name="dimen_74">55.5px</dimen>
+    <dimen name="thirty_eight">60px</dimen>
+    <dimen name="forty">63px</dimen>
+    <dimen name="forty_four">69px</dimen>
+    <dimen name="forty_eight">75px</dimen>
+    <dimen name="fifty_four">84px</dimen>
+    <dimen name="fifty_three">83px</dimen>
+    <dimen name="fifty_eight">90px</dimen>
+    <dimen name="one_thirty">97.5px</dimen>
+    <dimen name="dimen_106">79.5px</dimen>
+    <dimen name="dimen_150">112.5px</dimen>
+    <dimen name="dimen_155">116.25px</dimen>
+    <dimen name="dimen_160">120px</dimen>
+    <dimen name="dimen_185">138.75px</dimen>
+    <dimen name="dimen_187">141.25px</dimen>
+    <dimen name="dimen_200">150px</dimen>
+    <dimen name="one_twenty_five">187.5px</dimen>
+    <dimen name="two_hundred">300px</dimen>
+    <dimen name="dimen_432">324px</dimen>
+    <dimen name="dimen_580">435px</dimen>
+    <dimen name="dimen_650">487.5px</dimen>
+
+    <dimen name="next_prev_height">75px</dimen>
+
+    <!-- Friends off q-->
+    <dimen name="web_view_height">127px</dimen>
+    <dimen name="cat_width">120px</dimen>
+    <dimen name="cat_height">109px</dimen>
+    <dimen name="font_22">16.5px</dimen>
+    <dimen name="featured_product_height">248px</dimen>
+    <!--*** *** ***-->
+
+    <dimen name="home_summary_height">518px</dimen>
+    <dimen name="header_height">81px</dimen>
+    <dimen name="font_25">18.75px</dimen>
+    <dimen name="dimen_26">19.5px</dimen>
+    <dimen name="dimen_195">146.25px</dimen>
+    <dimen name="font_63">47.25px</dimen>
+    <dimen name="dimen_190">142.5px</dimen>
+
+    <dimen name="outer_frame_layout_wh">465px</dimen>
+    <dimen name="inner_frame_layout_wh">345px</dimen>
+    <dimen name="inner_circle_progress_layout_wh">210dp</dimen>
+    <dimen name="helper_margin_top">50dp</dimen>
+    <dimen name="helper_margin_left">300dp</dimen>
+    <dimen name="one_fifteen">86.25px</dimen>
+    <dimen name="seventy">52.5px</dimen>
+    <dimen name="circleProgressThickness">37.50px</dimen>
+
+</resources>

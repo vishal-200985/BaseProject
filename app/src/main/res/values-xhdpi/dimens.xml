@@ -1,0 +1,149 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+
+    <dimen name="divider_height">1px</dimen>
+    <dimen name="result_summary_height">308px</dimen>
+
+    <dimen name="font_xxx_small">20px</dimen>
+    <dimen name="font_xx_small">24px</dimen>
+    <dimen name="font_x_small">28px</dimen>
+
+    <dimen name="font_normal">36px</dimen>
+    <dimen name="font_x_normal">34px</dimen>
+
+    <dimen name="font_splash_text">@dimen/thirty_eight</dimen>
+    <dimen name="font_extra_large">120px</dimen>
+
+    <!-- PHAS detail dialog -->
+    <dimen name="more_height">76px</dimen>
+    <dimen name="more_icon_height">48px</dimen>
+    <!--*** *** ***-->
+
+    <!-- Result page -->
+    <dimen name="result_score_height">184px</dimen>
+    <!-- *** *** *** -->
+
+    <!--  Arc animation -->
+    <dimen name="menuChildSize">94px</dimen>
+    <!--*** *** ***-->
+
+    <!--Pre dashboard Q dim-->
+    <dimen name="dash_q_value_size">195px</dimen>
+    <dimen name="dash_nav_q_value_size">185px</dimen>
+
+    <dimen name="dash_q_score_margin_top">-25px</dimen>
+
+    <dimen name="coach_profile_pic">235px</dimen>
+
+    <dimen name="q_size">500px</dimen>
+
+    <dimen name="q_value_size">100px</dimen>
+    <dimen name="q_parent_width">290px</dimen>
+    <dimen name="q_parent_height">162px</dimen>
+
+    <dimen name="hra_icon_size">@dimen/thirty_eight</dimen>
+    <dimen name="hra_icon_outer_size">97px</dimen>
+
+    <dimen name="health_hra_icon_size">@dimen/dimen_60</dimen>
+    <dimen name="health_hra_icon_outer_size">72px</dimen>
+    <!--*** *** ***-->
+
+    <dimen name="header_image_width">70px</dimen>
+
+    <dimen name="dimen_1_5">1.5px</dimen>
+    <dimen name="dimen_2">2px</dimen>
+    <dimen name="dimen_4">4px</dimen>
+    <dimen name="dimen_6">6px</dimen>
+    <dimen name="two">8px</dimen>
+    <dimen name="three">10px</dimen>
+    <dimen name="four">12px</dimen>
+    <dimen name="five">14px</dimen>
+    <dimen name="six">16px</dimen>
+    <dimen name="seven">18px</dimen>
+    <dimen name="dimen_19">19px</dimen>
+    <dimen name="eight">20px</dimen>
+    <dimen name="ten">24px</dimen>
+    <dimen name="dimen_26">26px</dimen>
+    <dimen name="twelve">28px</dimen>
+    <dimen name="thirteen">30px</dimen>
+    <dimen name="dimen_32">32px</dimen>
+    <dimen name="fifteen">34px</dimen>
+    <dimen name="sixteen">36px</dimen>
+    <dimen name="dimen_38">38px</dimen>
+    <dimen name="dimen_40">40px</dimen>
+    <dimen name="dimen_42">42px</dimen>
+    <dimen name="twenty">44px</dimen>
+    <dimen name="twenty_one">46px</dimen>
+    <dimen name="dimen_48">48px</dimen>
+    <dimen name="dimen_50">50px</dimen>
+    <dimen name="twenty_five">54px</dimen>
+    <dimen name="dimen_56">56px</dimen>
+    <dimen name="twenty_seven">58px</dimen>
+    <dimen name="dimen_60">60px</dimen>
+    <dimen name="thirty">64px</dimen>
+    <dimen name="dimen_74">74px</dimen>
+    <dimen name="thirty_eight">80px</dimen>
+    <dimen name="forty">84px</dimen>
+    <dimen name="forty_four">92px</dimen>
+    <dimen name="forty_eight">100px</dimen>
+    <dimen name="dimen_106">106px</dimen>
+    <dimen name="fifty_two">108px</dimen>
+    <dimen name="fifty_four">112px</dimen>
+    <dimen name="fifty_three">110px</dimen>
+    <dimen name="fifty_eight">120px</dimen>
+    <dimen name="one_thirty">130px</dimen>
+    <dimen name="dimen_150">150px</dimen>
+    <dimen name="dimen_155">155px</dimen>
+    <dimen name="dimen_160">160px</dimen>
+    <dimen name="dimen_185">185px</dimen>
+    <dimen name="dimen_187">187px</dimen>
+    <dimen name="dimen_200">200px</dimen>
+    <dimen name="one_twenty_five">250px</dimen>
+
+    <dimen name="two_hundred">400px</dimen>
+    <dimen name="dimen_432">432px</dimen>
+    <dimen name="dimen_580">580px</dimen>
+    <dimen name="dimen_650">650px</dimen>
+
+    <dimen name="next_prev_height">100px</dimen>
+
+    <!-- Friends off q-->
+    <dimen name="web_view_height">170px</dimen>
+    <dimen name="cat_width">160px</dimen>
+    <dimen name="cat_height">145px</dimen>
+
+    <dimen name="grid_height">335px</dimen>
+    <dimen name="featured_product_height">330px</dimen>
+    <dimen name="featured_product_image_width">400px</dimen>
+    <!--*** *** ***-->
+
+    <dimen name="tutorial_padding">-25px</dimen>
+    <dimen name="home_summary_height">690px</dimen>
+
+    <dimen name="header_height">108px</dimen>
+
+    <dimen name="font_51">101px</dimen>
+    <dimen name="font_40">40px</dimen>
+    <dimen name="font_22">22px</dimen>
+    <dimen name="font_25">25px</dimen>
+    <dimen name="font_58">58px</dimen>
+    <dimen name="font_63">63px</dimen>
+    <dimen name="font_80">@dimen/thirty_eight</dimen>
+    <dimen name="dimen_195">195px</dimen>
+    <dimen name="dimen_190">190px</dimen>
+
+    <dimen name="outer_frame_layout_wh">620px</dimen>
+
+    <dimen name="inner_frame_layout_wh">460px</dimen>
+
+    <dimen name="one_fifteen">115px</dimen>
+    <dimen name="seventy">70px</dimen>
+
+    <dimen name="curvedTextViewTextSize">15sp</dimen>
+    <dimen name="curvedTextRadius">150dp</dimen>
+    <dimen name="curvedTextPadding">3dp</dimen>
+    <dimen name="circleProgressThickness">50px</dimen>
+
+</resources>

@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+
+
+    <!--Hints ...-->
+    <string name="hint_email">Enter email</string>
+    <string name="hint_email_ex">something@something.com</string>
+    <string name="hint_password">Enter password</string>
+    <string name="hint_password_encrypted">******</string>
+    <string name="hint_dob">Date of Birth (dd/MM/yyyy)</string>
+    <string name="hint_enter_full_name">Enter name</string>
+    <string name="hint_enter_fname">Enter first name</string>
+    <string name="hint_enter_lname">Enter last name</string>
+    <string name="hint_search">Search</string>
+    <string name="hint_blood_group">Blood Group</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="hint_location">Enter Location</string>
+
+
+
+    <!--Errors ...-->
+    <string name="err_email">Invalid Email</string>
+    <string name="err_email_empty">Email is mandatory</string>
+    <string name="err_password">Invalid Password</string>
+    <string name="err_password_empty">Password cannot be empty</string>
+    <string name="err_password_length">Password length cannot be less than 5</string>
+    <string name="err_enter_full_name">Enter name</string>
+    <string name="err_enter_fname">Enter first name</string>
+    <string name="err_enter_lname">Enter last name</string>
+    <string name="err_pwd_nomatch">Passwords doesn\'t match</string>
+    <string name="err_invalid_both">Enter valid email and password</string>
+    <string name="err_profile_all">Enter Profile Info to continue.</string>
+
+
+    <!--Buttons ...-->
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_signup">Signup</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_done">Done</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_logout">Logout</string>
+
+    <!--Labels ...-->
+    <string name="lbl_email">Email</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_dob">Date of birth</string>
+    <string name="lbl_gender">Gender</string>
+    <string name="lbl_male">Male</string>
+    <string name="lbl_female">Female</string>
+    <string name="lbl_full_name">Name</string>
+    <string name="lbl_f_name">First Name</string>
+    <string name="lbl_l_name">Last Name</string>
+    <string name="lbl_no_account">No Account? Signup</string>
+    <string name="lbl_back_to_login">Back to Login</string>
+    <string name="lbl_current_location">Current Location</string>
+    <string name="lbl_forgot_password">Forgot Password?</string>
+
+
+    <!--Success Msgs-->
+    <string name="msg_login_success">Login Successful.</string>
+    <string name="msg_register_success">Registration Successful. please verify your email id.</string>
+
+
+    <!--Messages ...-->
+    <string name="msg_loading">Loading…</string>
+    <string name="msg_login">Processing Login…</string>
+    <string name="msg_signup">Processing Registration…</string>
+    <string name="msg_logout">Processing Logout…</string>
+    <string name="msg_fetch_data">Fetching Data…</string>
+    <string name="msg_delete">Deleting…</string>
+
+
+    <!--Alerts ....-->
+    <string name="alert_logout">Are you sure you want to Logout?</string>
+    <string name="alert_exit">Are you sure you want to Exit?</string>
+
+    <!--Menu String Array ...-->
+    <string-array name="menu_item_names">
+        <item>@string/item_1</item>
+        <item>@string/item_2</item>
+        <item>@string/item_3</item>
+        <item>@string/item_4</item>
+        <item>@string/item_5</item>
+        <item>@string/item_6</item>
+    </string-array>
+
+
+    <string name="item_1">item 1</string>
+    <string name="item_2">item 2</string>
+    <string name="item_3">item 3</string>
+    <string name="item_4">item 4</string>
+    <string name="item_5">item 5</string>
+    <string name="item_6">item 6</string>
+</resources>
